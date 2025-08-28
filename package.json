@@ -1,0 +1,17 @@
+{
+  "name": "algorand-steps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@algorandfoundation/algokit-utils": "^9.1.2",
+    "algosdk": "^3.4.0"
+  },
+  "type": "module"
+}
